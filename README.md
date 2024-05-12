@@ -1,7 +1,7 @@
 NAME:karishma shaik
 ID:IT64
 DOMAIN:python
-DURATION:30 march to 30 june 2024
+DURATION:1st april to 1st july 2024
 DESCRIPTION:A student grade tracker is a comprehensive tool designed to help students monitor and manage their academic progress effectively. It serves as a digital repository where students can record, organize, and analyze their grades across various subjects or courses throughout the academic year. Typically, these trackers are accessible online or through dedicated apps, providing convenience and flexibility for students to update their grades anytime, anywhere.
 
 At its core, a student grade tracker features functionalities such as grade entry, calculation, and visualization. Students can input their grades for individual assignments, quizzes, tests, and projects into the tracker, along with relevant details like the date of assessment and weightage. The tracker then automatically calculates cumulative grades, averages, and overall performance metrics based on the entered data.
